@@ -1,4 +1,4 @@
-# Docker with ssh client
+# Docker with curl and ssh client
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/artrey/docker-curl-ssh.svg)](https://hub.docker.com/r/artrey/docker-curl-ssh/)
 [![GitHub issues](https://img.shields.io/github/issues/artrey/docker-curl-ssh.svg)](https://github.com/artrey/docker-curl-ssh/issues)
